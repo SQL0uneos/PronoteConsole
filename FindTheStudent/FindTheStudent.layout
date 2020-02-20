@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="grade.c" open="1" top="1" tabpos="3">
+		<Cursor position="1920" topLine="65" />
+	</File>
+	<File name="grade.h" open="1" top="0" tabpos="4">
+		<Cursor position="259" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="263" topLine="0" />
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="7">
+		<Cursor position="336" topLine="0" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="2">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="student.c" open="1" top="0" tabpos="6">
+		<Cursor position="675" topLine="12" />
+	</File>
+	<File name="student.h" open="1" top="0" tabpos="5">
+		<Cursor position="318" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

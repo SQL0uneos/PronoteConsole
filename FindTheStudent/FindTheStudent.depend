@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1576057967 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1576057967 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\cjson.h
+	<stddef.h>
+
+1577121034 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\json.c
+	<stdio.h>
+	"json.h"
+	"cJSON.h"
+	"student.h"
+
+1576149724 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\json.h
+	"student.h"
+
+1581778936 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\student.h
+
+1581361645 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"student.h"
+	"menu.h"
+
+1581778946 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\student.c
+	"student.h"
+	"winsock.h"
+	<MYSQL/mysql.h>
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+	<stdio.h>
+	<stdlib.h>
+
+1576742306 source:c:\users\jnizard\documents\github\findthestudent\findthestudent\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1576742306 c:\users\jnizard\documents\github\findthestudent\findthestudent\cjson.h
+	<stddef.h>
+
+1576749772 source:c:\users\jnizard\documents\github\findthestudent\findthestudent\json.c
+	<stdio.h>
+	"json.h"
+	"cJSON.h"
+	"student.h"
+
+1576742306 c:\users\jnizard\documents\github\findthestudent\findthestudent\json.h
+	"student.h"
+
+1576750055 c:\users\jnizard\documents\github\findthestudent\findthestudent\student.h
+
+1576750183 source:c:\users\jnizard\documents\github\findthestudent\findthestudent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"student.h"
+	"json.h"
+
+1576751065 source:c:\users\jnizard\documents\github\findthestudent\findthestudent\student.c
+	"student.h"
+	"cJSON.h"
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+
+1576751000 c:\users\jnizard\documents\github\findthestudent\findthestudent\zerofgets.h
+
+1576751055 source:c:\users\jnizard\documents\github\findthestudent\findthestudent\zerofgets.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"zerofgets.h"
+
+1577119391 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\zerofgets.h
+
+1577119391 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\zerofgets.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"zerofgets.h"
+
+1581358797 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\menu.h
+
+1581359841 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\grade.c
+	"grade.h"
+	"student.h"
+
+1581359693 c:\users\jonas\onedrive\documents\findthestudent\findthestudent\grade.h
+
+1581779081 source:c:\users\jonas\onedrive\documents\findthestudent\findthestudent\menu.c
+	"menu.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581363870 source:c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"student.h"
+	"menu.h"
+
+1581778813 c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\student.h
+
+1581363870 c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\menu.h
+
+1581780417 source:c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\menu.c
+	"menu.h"
+	"student.h"
+	"grade.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581778813 source:c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\student.c
+	"student.h"
+	"winsock.h"
+	<MYSQL/mysql.h>
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581363870 c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\zerofgets.h
+
+1581363870 source:c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\zerofgets.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"zerofgets.h"
+
+1581780274 source:c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\grade.c
+	"grade.h"
+	"student.h"
+	"winsock.h"
+	<MYSQL/mysql.h>
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581779449 c:\users\lamma\desktop\a faire\findthestudent-master\findthestudent\grade.h
+
+1581363870 source:c:\users\lamma\documents\github\findthestudent\findthestudent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"student.h"
+	"menu.h"
+
+1581781486 c:\users\lamma\documents\github\findthestudent\findthestudent\student.h
+
+1581363870 c:\users\lamma\documents\github\findthestudent\findthestudent\menu.h
+
+1581781486 source:c:\users\lamma\documents\github\findthestudent\findthestudent\student.c
+	"student.h"
+	"winsock.h"
+	<MYSQL/mysql.h>
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581363870 c:\users\lamma\documents\github\findthestudent\findthestudent\zerofgets.h
+
+1581363870 source:c:\users\lamma\documents\github\findthestudent\findthestudent\zerofgets.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"zerofgets.h"
+
+1581780910 source:c:\users\lamma\documents\github\findthestudent\findthestudent\grade.c
+	"grade.h"
+	"student.h"
+	"winsock.h"
+	<MYSQL/mysql.h>
+	<time.h>
+	<string.h>
+	"zerofgets.h"
+	<stdio.h>
+	<stdlib.h>
+
+1581782380 c:\users\lamma\documents\github\findthestudent\findthestudent\grade.h
+
+1581782287 source:c:\users\lamma\documents\github\findthestudent\findthestudent\menu.c
+	"menu.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+
